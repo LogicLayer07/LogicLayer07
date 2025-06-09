@@ -22,13 +22,13 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,vue,django,flask,aws,gcp,azure,docker,kubernetes,graphql,firebase,mongodb,postgres,redis,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,vue,django,flask,aws,gcp,azure,docker,kubernetes,graphql,supabase,firebase,mongodb,postgres,redis,git,github" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/AI/ML-LangChain%20|%20HuggingFace%20|%20LlamaIndex%20|%20vLLM%20|%20AutoGen%20|%20RAG-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/LLMs-GPT--4%20|%20Claude%20|%20LLaMA%20|%20Mistral%20|%20Bloom-blueviolet?style=flat-square"/>
   <img src="https://img.shields.io/badge/Vector%20DBs-Pinecone%20|%20Chroma%20|%20FAISS%20|%20Qdrant-ff69b4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Database-MongoDB%20|%20PostgreSQL%20|%20Firestore%20|%20Supabase%20|%20Redis%20|%20Chroma%20|%20Pinecone-00e396?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Database-Supabase%20|%20PostgreSQL%20|%20Firestore%20|%20MongoDB%20|%20Redis%20|%20Chroma%20|%20Pinecone-00e396?style=flat-square"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 - **Frontend Excellence**: React.js, Next.js, Vue.js, TailwindCSS, Material UI
 - **Backend & APIs**: Node.js, Python, Django, Flask, FastAPI, GraphQL, REST
 - **Cloud & DevOps**: AWS Bedrock, GCP, Azure, Docker, Kubernetes, GitHub Actions
-- **Database & Storage**: MongoDB, PostgreSQL, Firestore, Pinecone, Chroma, Redis
+- **Database & Storage**: Supabase, MongoDB, PostgreSQL, Firestore, Pinecone, Chroma, Redis
 
 ---
 
@@ -64,7 +64,3 @@
     <li><b>DevOps & CI/CD:</b> Automated cloud deployments, Docker/K8s, GitHub Actions</li>
   </ul>
 </details>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=blue"/>
-</p>
